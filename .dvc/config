@@ -1,0 +1,4 @@
+[core]
+    remote = default-jobs
+['remote "default-jobs"']
+    url = gdrive://1rRbny0dFHdhe9YZUU16wp6W_EIibnqxx
